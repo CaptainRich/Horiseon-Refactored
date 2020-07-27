@@ -1,15 +1,18 @@
 
 /* General overall style if not over-ridden. */
+/* This removes the default HTML style assumptions. */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Define the main body style. */
 body {
     background-color: #d9dcd6;
 }
 
+/* Define the style for the "header" area. */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -17,14 +20,15 @@ body {
     color: #ffffff;
 }
 
-/* Define the styles for the "header area". */
+/* Define the styles for the "h1 element of the header area". */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Change the color of the letters "seo". */
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #cf6f20;
 }
 
 .header div {
@@ -59,7 +63,7 @@ p {
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
+    background-size: cover;      /* avoids clippling the image */
     background-position: center;
 }
 
