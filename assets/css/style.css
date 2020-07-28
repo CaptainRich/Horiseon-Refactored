@@ -7,11 +7,13 @@
     margin: 0;
 }
 
+/* ========================================================== */
 /* Define the main body style. */
 body {
     background-color: #d9dcd6;
 }
 
+/* ========================================================== */
 /* Define the style for the "header" area. */
 .header {
     padding: 20px;
@@ -31,6 +33,7 @@ body {
     color: #cf6f20;
 }
 
+/* Define the style for the header navigation links. */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -39,16 +42,14 @@ body {
     font-size: 20px;
 }
 
-.header nav ul {
-    list-style-type: none;
-}
-
 .header nav ul li {
+    list-style-type: none;
     display: inline-block;
     margin-left: 25px;
 }
 
-/* Define the styles for the "hero area". */
+/* ========================================================== */
+/* Define the styles for the "hero area", the big image. */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,8 +59,8 @@ body {
     background-position: center;
 }
 
-
-/* Define general over-arching styles. */
+/* ========================================================== */
+/* Define general over-arching styles for page content. */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -70,25 +71,15 @@ p {
 }
 
 
-/* Define the styles for the body of the page. */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
+/* ========================================================== */
+/* Define the styles for the main content panels. */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-
-.search-engine-optimization {
+.panels {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -97,52 +88,27 @@ p {
     color: #ffffff;
 }
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
+.panels img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
+.float-left {  /* specific image style */
+    float: left;
+    margin-right: 25px;
 }
 
-.social-media-marketing img {
-    max-height: 200px;
+.float-right {  /* specific image style */
+    float: right;
+    margin-left: 25px;
 }
 
-.search-engine-optimization h2 {
+.panels h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-
+/* ========================================================== */
+/* Define the styels for the "benefits" side-bar. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -167,6 +133,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* ========================================================== */
 /* Define the styles for the "Footer Area". */
 .footer {
     padding: 30px;
