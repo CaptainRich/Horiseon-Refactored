@@ -1,7 +1,7 @@
 # Code Refactor Project
 Richard Ay, July 2020
 
-Deployment link: https://CaptainRich.github.io/Horiseon-Refactored
+Deployment link: https://captainrich.github.io/Horiseon-Refactored/
 
 The purpose of this project is to refactor both the HTML and the associated
 style sheet (CSS file).  The objectives are:
