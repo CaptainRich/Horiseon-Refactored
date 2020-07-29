@@ -26,9 +26,11 @@ style sheet (CSS file).  The objectives are:
 ## Web Page Screen Shots
 
 *Top Half of web page:*
-![Top Half](/assets/images/WebPage-Part1.png "The top half of the page.")
+
+![Top Half](https://captainrich.github.io/Horiseon-Refactored/assets/images/WebPage-Part1.png "The top half of the page.")
 
 *Bottom Half of web page:*
-![Bottom Half](/assets/images/WebPage-Part2.png "The bottom half of the page.")
+
+![Bottom Half](https://captainrich.github.io/Horiseon-Refactored/assets/images/WebPage-Part2.png "The bottom half of the page.")
 
 
