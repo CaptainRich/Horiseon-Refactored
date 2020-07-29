@@ -27,10 +27,10 @@ style sheet (CSS file).  The objectives are:
 
 *Top Half of web page:*
 
-![Top Half](WebPage-Part1.png "The top half of the page.")
+![Top Half](WebPage-Part1.png)
 
 *Bottom Half of web page:*
 
-![Bottom Half](WebPage-Part2.png "The bottom half of the page.")
+![Bottom Half](WebPage-Part2.png)
 
 
