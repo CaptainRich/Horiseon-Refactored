@@ -1,7 +1,9 @@
 # Code Refactor Project
-Richard Ay, July 2020
+##Richard Ay, July 2020
 
-Deployment link: https://captainrich.github.io/Horiseon-Refactored/
+## Project Details
+
+Deployment link: [GitHub Pages](https://captainrich.github.io/Horiseon-Refactored/).
 
 The purpose of this project is to refactor both the HTML and the associated
 style sheet (CSS file).  The objectives are:
@@ -16,8 +18,17 @@ style sheet (CSS file).  The objectives are:
 8) The webpage is deployed at a live URL (see above link)
 9) The page loads without errors
 10) All files are uploaded to GitHub Repository
-    - The Repository has a unique name: Horiseon-Refactored
+    - The Repository has a unique name: *Horiseon-Refactored*
     - The Repository contians multiple descriptive commit messages
     - The Repository contains a quality README file - with description, 
-      screenshot, and deployment link - this file
+      screenshot, and deployment link - *this file*
+
+## Web Page Screen Shots
+
+*Top Half of web page:*
+![Top Half](./assets/images/WebPage-Part1.png "The top half of the page.")
+
+*Bottom Half of web page:*
+![Top Half](./assets/images/WebPage-Part2.png "The bottom half of the page.")
+
 
