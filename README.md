@@ -27,10 +27,10 @@ style sheet (CSS file).  The objectives are:
 
 *Top Half of web page:*
 
-![Top Half](https://CaptainRich.github.io/Horiseon-Refactored/WebPage-Part1.png)
+![Top Half](https://github.com/CaptainRich/Horiseon-Refactored/blob/master/WebPage-Part1.png)
 
 *Bottom Half of web page:*
 
-![Bottom Half](https://CaptainRich.github.io/Horiseon-Refactored/WebPage-Part2.png)
+![Bottom Half](https://github.com/CaptainRich/Horiseon-Refactored/blob/master/WebPage-Part2.png)
 
 
