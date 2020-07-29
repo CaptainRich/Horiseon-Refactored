@@ -1,5 +1,5 @@
 # Code Refactor Project
-##Richard Ay, July 2020
+Richard Ay, July 2020
 
 ## Project Details
 
@@ -26,9 +26,9 @@ style sheet (CSS file).  The objectives are:
 ## Web Page Screen Shots
 
 *Top Half of web page:*
-![Top Half](./assets/images/WebPage-Part1.png "The top half of the page.")
+![Top Half](/assets/images/WebPage-Part1.png "The top half of the page.")
 
 *Bottom Half of web page:*
-![Top Half](./assets/images/WebPage-Part2.png "The bottom half of the page.")
+![Bottom Half](/assets/images/WebPage-Part2.png "The bottom half of the page.")
 
 
