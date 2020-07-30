@@ -1,12 +1,24 @@
 # Code Refactor Project
 Richard Ay, July 2020
 
-## Project Details
+## Table of Contents
+* [Project Objective](#project-objective)
+* [Deployment Link](#deploymnet-link)
+* [Project Requirements](#project-requirements)
+* [Web Page Screen Shots](#web-page-screen-shots)
 
-Deployment link: [GitHub Pages](https://captainrich.github.io/Horiseon-Refactored/).
+## Project Obective
+The purpose of this project is to take an existing web page (provided) and
+refactor both the HTML and the associated style sheet (CSS file), to bring
+both up to expected standards. These standards and requirements are discussed
+below in *"Project Requirements"*.
 
-The purpose of this project is to refactor both the HTML and the associated
-style sheet (CSS file).  The objectives are:
+## Deployment Link
+The deployment link to display the updated web page is: 
+[GitHub Pages](https://captainrich.github.io/Horiseon-Refactored/).
+
+## Project Requirements
+The objectives/requirements of this project are:
 
 1) The webpage meets accessibility standards (internal/external links function)
 2) Semantic HTML elements are used
