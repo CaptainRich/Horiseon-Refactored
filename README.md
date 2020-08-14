@@ -3,11 +3,11 @@ Richard Ay, July 2020
 
 ## Table of Contents
 * [Project Objective](#project-objective)
-* [Deployment Link](#deploymnet-link)
+* [Deployment Link](#deployment-link)
 * [Project Requirements](#project-requirements)
 * [Web Page Screen Shots](#web-page-screen-shots)
 
-## Project Obective
+## Project Objective
 The purpose of this project is to take an existing web page (provided) and
 refactor both the HTML and the associated style sheet (CSS file), to bring
 both up to expected standards. These standards and requirements are discussed
