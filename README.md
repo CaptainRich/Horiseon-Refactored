@@ -17,6 +17,9 @@ below in *"Project Requirements"*.
 The deployment link to display the updated web page is: 
 [GitHub Pages](https://captainrich.github.io/Horiseon-Refactored/).
 
+Alternatively, just double click 'index.html' for local usage.
+
+
 ## Project Requirements
 The objectives/requirements of this project are:
 
@@ -31,7 +34,7 @@ The objectives/requirements of this project are:
 9) The page loads without errors
 10) All files are uploaded to GitHub Repository
     - The Repository has a unique name: *Horiseon-Refactored*
-    - The Repository contians multiple descriptive commit messages
+    - The Repository contains multiple descriptive commit messages
     - The Repository contains a quality README file - with description, 
       screenshot, and deployment link - *this file*
 

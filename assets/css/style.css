@@ -55,7 +55,7 @@ body {
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;      /* avoids clippling the image */
+    background-size: cover;      /* avoids clipping the image */
     background-position: center;
 }
 
@@ -108,7 +108,7 @@ p {
 }
 
 /* ========================================================== */
-/* Define the styels for the "benefits" side-bar. */
+/* Define the styles for the "benefits" side-bar. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -118,13 +118,13 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
     background-color: #0072bb;
-    margin-bottom: 30px;
+    margin-bottom: 35px;
     color: #ffffff;
 }
 
 .benefits h3 {
-    margin-top: 20px;
-    margin-bottom: 20Spx;
+    margin-top: 30px;
+    margin-bottom: 10px;
     text-align: center;
 }
 
